@@ -1,0 +1,6 @@
+# Ignore Files #
+######################
+*.log
+*.sql
+error_log
+config.php
